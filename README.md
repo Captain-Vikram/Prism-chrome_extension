@@ -20,7 +20,7 @@
 
 Prism began as a one‑day project to solve a simple, practical problem: frontend UI/UX designers and developers often need quick inspiration from other websites — accurate color palettes and full‑page screenshots to study color usage and layout. I built Prism to make that workflow trivial.
 
-Designed specifically for UI/UX practitioners, Prism captures the **entire page** (including areas outside the viewport) and runs an offscreen, locally executed color analysis that quantizes and clusters similar shades. Think "Site Palette, but better" — for inspiration see https://pallet.site. Prism is free, open‑source, and focuses on full‑page captures and local palette extraction to help people who "just can't get the right colours" find visual inspiration quickly.
+Designed specifically for UI/UX practitioners, Prism captures the **entire page** (including areas outside the viewport) and runs an offscreen, locally executed color analysis that quantizes and clusters similar shades. Think "Site Palette, but better" — for inspiration see https://palette.site. Prism is free, open‑source, and focuses on full‑page captures and local palette extraction to help people who "just can't get the right colours" find visual inspiration quickly.
 
 **Author:** Vighnesh  
 **Repository:** [https://github.com/Captain-Vikram/Prism-chrome_extension.git](https://github.com/Captain-Vikram/Prism-chrome_extension.git)
