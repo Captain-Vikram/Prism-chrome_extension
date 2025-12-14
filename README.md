@@ -40,7 +40,7 @@ Designed specifically for UI/UX practitioners, Prism captures the **entire page*
 
 1.  **Clone the repository** or download the ZIP.
     ```bash
-    git clone https://github.com/Captain-Vikram/Prism-chrome_extension-.git
+    git clone https://github.com/Captain-Vikram/Prism-chrome_extension.git
     ```
 2.  Open Chrome and navigate to `chrome://extensions/`.
 3.  Toggle **Developer mode** in the top right corner.
