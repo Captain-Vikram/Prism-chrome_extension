@@ -21,7 +21,7 @@
 Prism is designed for designers and developers who need to analyze the color usage of a webpage instantly. Unlike standard screenshot tools, Prism captures the **entire page** (even parts not visible in the viewport) and uses an intelligent offscreen processor to extract a quantized color palette.
 
 **Author:** Vighnesh  
-**Repository:** [https://github.com/Captain-Vikram/Prism-chrome_extension-.git](https://github.com/Captain-Vikram/Prism-chrome_extension-.git)
+**Repository:** [https://github.com/Captain-Vikram/Prism-chrome_extension.git](https://github.com/Captain-Vikram/Prism-chrome_extension.git)
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ Prism is designed for designers and developers who need to analyze the color usa
 
 1.  **Clone the repository** or download the ZIP.
     ```bash
-    git clone https://github.com/Captain-Vikram/Prism-chrome_extension-.git
+    git clone https://github.com/Captain-Vikram/Prism-chrome_extension.git
     ```
 2.  Open Chrome and navigate to `chrome://extensions/`.
 3.  Toggle **Developer mode** in the top right corner.
