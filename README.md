@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="icon-16.svg" style="height: 1em;"> Prism
+# <img src="scroll-snap-extension/icons/icon-16.svg" style="height: 1em;"> Prism
 
 ### Full-Page Screenshot & Color Palette Extractor
 
