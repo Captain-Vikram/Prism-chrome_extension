@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌈 Prism
+# <img src="scroll-snap-extension/icons/icon-16.svg" style="height: 1em;"> Prism
 
 ### Full-Page Screenshot & Color Palette Extractor
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Captain-Vikram/Prism-chrome_extension-)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Captain-Vikram/Prism-chrome_extension)
 [![Version](https://img.shields.io/badge/Version-0.1.0-blue?style=for-the-badge)](manifest.json)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -18,10 +18,12 @@
 
 ## 🚀 About Prism
 
-Prism is designed for designers and developers who need to analyze the color usage of a webpage instantly. Unlike standard screenshot tools, Prism captures the **entire page** (even parts not visible in the viewport) and uses an intelligent offscreen processor to extract a quantized color palette.
+Prism began as a one‑day project to solve a simple, practical problem: frontend UI/UX designers and developers often need quick inspiration from other websites — accurate color palettes and full‑page screenshots to study color usage and layout. I built Prism to make that workflow trivial.
+
+Designed specifically for UI/UX practitioners, Prism captures the **entire page** (including areas outside the viewport) and runs an offscreen, locally executed color analysis that quantizes and clusters similar shades. Think "Site Palette, but better" — for inspiration see https://pallet.site. Prism is free, open‑source, and focuses on full‑page captures and local palette extraction to help people who "just can't get the right colours" find visual inspiration quickly.
 
 **Author:** Vighnesh  
-**Repository:** [https://github.com/Captain-Vikram/Prism-chrome_extension-.git](https://github.com/Captain-Vikram/Prism-chrome_extension-.git)
+**Repository:** [https://github.com/Captain-Vikram/Prism-chrome_extension.git](https://github.com/Captain-Vikram/Prism-chrome_extension.git)
 
 ## ✨ Features
 
