@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈 Prism
+# <img src="icon-16.svg" style="height: 1em;"> Prism
 
 ### Full-Page Screenshot & Color Palette Extractor
 
